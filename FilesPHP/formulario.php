@@ -26,6 +26,7 @@
         <!--TYPE debe ser de tipo texto, ID y NAME compartirán el mismo nombre que en FOR en LABEL-->
         <label for="habitatMascota">Habitat de tu Mascota: </label>
         <input type="text" id="habitatMascota" name="habitatMascota"><br>
+        <!-- prueba "segundo intento de envio-->
 
     </form>
 </body>
